@@ -12,3 +12,7 @@
     
     TO ADD:
     - Single function to check whather a number if prime or not based on different theorms eg: Fermet's theorem, etc
+
+3. Curring function for multipilcation:
+    - Curring : It is a process of turning a function with multiple arity into a function with less arity (number of arguments        a function takes).
+    - Based on logic that functions in JS are 1st order objects i.e, they can be assigned to a variable, given as a function         argument and also returned from a function.
