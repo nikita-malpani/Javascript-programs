@@ -23,3 +23,6 @@
     
     TO ADD:
     - Different ways of implenetation: Using sets, maps
+
+5. Reverse each word of string and capitize first word
+ 
