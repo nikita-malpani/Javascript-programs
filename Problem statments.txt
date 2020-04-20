@@ -16,3 +16,10 @@
 3. Curring function for multipilcation:
     - Curring : It is a process of turning a function with multiple arity into a function with less arity (number of arguments        a function takes).
     - Based on logic that functions in JS are 1st order objects i.e, they can be assigned to a variable, given as a function         argument and also returned from a function.
+
+4. Check Anagram strings:
+    - An anagram is a word or phrase formed by rearranging the letters of a different word, typically using all the original         letters exactly once.
+    - Based on logic: When 2 strings have same number of letters then their sorted alphabets will be in same order
+    
+    TO ADD:
+    - Different ways of implenetation: Using sets, maps
