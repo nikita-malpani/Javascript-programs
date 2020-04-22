@@ -28,3 +28,4 @@
 6. Fibonnacci series:
    - Impleneted using generator to calculate index of array of fibonacci series 
  
+7. Iterate object and find a perticular key from it
