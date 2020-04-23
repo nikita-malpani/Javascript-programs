@@ -31,3 +31,5 @@
 7. Iterate object and find a perticular key from it
 
 8. Inheritance in JS. Explained main 3 types: pseudo-classical inheritance, Prototyple inhertance and Class inheritance
+
+9. Getter Setter methods in JS classes
