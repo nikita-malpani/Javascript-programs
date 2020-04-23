@@ -78,3 +78,30 @@
 
     var Nikita = PersonFactory('Nikita', 'Malpani')
     console.log(Nikita.getName())
+
+//3. Class based inheritance:
+
+  class Person{
+    constructor(fname,lname){
+      this.fname = fname;
+      this.lname=lname
+    }
+
+    getName(){
+      return  `Hello ${this.fname} ${this.lname}`
+    }
+  }
+
+  class Nikita extends Person{
+    constructor(fname,lname,age){
+     super(fname,lname)
+     this.age=age;
+    }
+
+    getName(){
+      return `${super.getName()} my age is ${this.age}`
+    }
+  }
+
+  var NikitaObj = new Nikita('nikita', 'malpani', 20)
+  console.log(NikitaObj.getName())
