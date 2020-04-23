@@ -29,3 +29,5 @@
    - Impleneted using generator to calculate index of array of fibonacci series 
  
 7. Iterate object and find a perticular key from it
+
+8. Inheritance in JS. Explained main 3 types: pseudo-classical inheritance, Prototyple inhertance and Class inheritance
