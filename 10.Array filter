@@ -1,5 +1,5 @@
 function breakAndMake(arr,len){
-  return [[...arr.splice(0, len)], [...arr.splice(0, arr.length)] ]  
+  return [arr.splice(0, len), arr.splice(0, arr.length) ]  
 }
 
 console.log( breakAndMake([0, 1, 2, 3, 4, 5], 3))
