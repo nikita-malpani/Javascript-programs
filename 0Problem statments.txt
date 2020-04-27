@@ -36,4 +36,7 @@
 
 10. Create a function that splits an array (first argument) into the number of groups equal to the length of size (second         argument) and returns them as a two-dimensional array.
 
+11. Using the 'Caesar cipher' encryption technique write a function to encrypt the string passed as an argument along with          offset.
+
+
 
