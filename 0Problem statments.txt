@@ -38,5 +38,7 @@
 
 11. Using the 'Caesar cipher' encryption technique write a function to encrypt the string passed as an argument along with          offset.
 
+12. Implement Binary search algorithm in javascript
+
 
 
