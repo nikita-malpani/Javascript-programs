@@ -40,5 +40,8 @@
 
 12. Implement Binary search algorithm in javascript
 
+13. Write a partial function with 3 params and return multipication of them
+    Partial function: A function that accepts some subset of its arguments and returns a function that accepts the remaining       arguments. One way to accomplish this is by currying.
+
 
 
