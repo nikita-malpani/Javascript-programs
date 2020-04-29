@@ -43,5 +43,6 @@
 13. Write a partial function with 3 params and return multipication of them
     Partial function: A function that accepts some subset of its arguments and returns a function that accepts the remaining       arguments. One way to accomplish this is by currying.
 
+14. Using regex, find number of vowels in the string passed as the parameter.
 
 
