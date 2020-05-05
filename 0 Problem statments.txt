@@ -49,4 +49,8 @@
 
 16. Function that generates a random even number every second.
 
+17. Fisher-Yaters Shuffle:
+    -The Fisher–Yates shuffle is an algorithm for generating a random permutation of a finite sequence—in plain terms, the          algorithm shuffles the sequence.
+    
+
 
