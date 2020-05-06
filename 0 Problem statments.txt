@@ -52,5 +52,11 @@
 17. Fisher-Yaters Shuffle:
     -The Fisher–Yates shuffle is an algorithm for generating a random permutation of a finite sequence—in plain terms, the          algorithm shuffles the sequence.
     
+18. Climbing staircase:
+    - Print number of ways a staircase with n can reach to top with steps possible with [a,b,c...] number of steps
+    
+    TO DO:
+    - Steps array should be sorted
+    - Need 1 as a step in the array as minimum step
 
 
