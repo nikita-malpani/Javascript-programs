@@ -58,5 +58,7 @@
     TO DO:
     - Steps array should be sorted
     - Need 1 as a step in the array as minimum step
+   
+19. Print all permutations of array elements provided
 
 
