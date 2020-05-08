@@ -61,4 +61,6 @@
    
 19. Print all permutations of array elements provided
 
-20. Function to return the length of the longest common subsequence of two strings
+20. Function to return the length of the longest common subsequence of two strings.
+
+21. Create a CURD operation with help of closure.
