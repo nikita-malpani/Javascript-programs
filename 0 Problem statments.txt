@@ -64,3 +64,10 @@
 20. Function to return the length of the longest common subsequence of two strings.
 
 21. Create a CURD operation with help of closure.
+
+22. Sort array of object based on dates and group them.
+        For today and yesterday's data - Group label should be "Recent"
+        For Current week data excluding today and yesterday -  Group label should be "This week".
+        For Current Month data excluding current week -   Group label should be "This Month"
+        For Current year data - Group label should be "Month name" ( January, February .... )
+        For older year - "Year" (2019, 2018 ..... )
