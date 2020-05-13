@@ -73,3 +73,6 @@
         For older year - "Year" (2019, 2018 ..... )
 
 23. Implement Merge Sort
+
+24. RGBA to HEX color convertor.
+
